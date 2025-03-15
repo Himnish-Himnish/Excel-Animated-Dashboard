@@ -1,6 +1,7 @@
 Profits and Loss Dashboard 2024
 
 
+
 📌 Overview
 
 The Profits and Loss Dashboard 2024 is a comprehensive Excel-based financial dashboard designed to help businesses track revenue, profits, debts, and corporate tax in an intuitive and visually appealing format. This dashboard is built entirely in Excel, making it easy to use without requiring any additional software or programming knowledge.
